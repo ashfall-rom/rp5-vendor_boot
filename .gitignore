@@ -1,0 +1,10 @@
+# Images belong on releases, not in git.
+#
+# A content-only vendor_boot is 12.9 MB; the zero-padded variant is 96 MiB and
+# must not even be distributed (it wedges the RP5 ABL on Sending 'vendor_boot',
+# issue #54). Publish with scripts/gpu/publish-vendor_boot.sh in the ROM repo.
+*.img
+*.img.sha256
+*.bin
+*.tar.gz
+*.7z
