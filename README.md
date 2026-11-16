@@ -1,4 +1,8 @@
-# rp5-vendor_boot
+<p align="center">
+  <img src="assets/brand/ashfall-icon.svg" width="80" height="80" alt="AshFall">
+</p>
+
+<h1 align="center">rp5-vendor_boot</h1>
 
 `vendor_boot` artifacts for the Retroid Pocket 5 (SM8250 "kona"), as AshFall
 boots it.

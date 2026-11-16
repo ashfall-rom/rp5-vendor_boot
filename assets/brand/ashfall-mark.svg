@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AshFall">
+  <!-- Monochrome / tintable mark: one colour, no opacity tricks, so it works
+       with android:tint, currentColor on the web and Android 13+ themed icons. -->
+  <g fill="currentColor">
+    <path d="M244 112 C228 208 204 316 120 408 L186 408 C236 318 256 200 268 112 Z"/>
+    <path d="M268 112 C284 208 308 316 392 408 L326 408 C276 318 256 200 244 112 Z"/>
+    <rect x="196" y="281" width="120" height="38" rx="19"/>
+  </g>
+</svg>
